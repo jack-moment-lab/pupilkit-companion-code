@@ -1,0 +1,7 @@
+Trials analyzed: 1182 of 1200 (excluded 18)
+Window 1-2 s: t(19) = 4.47, p = 0.0003, dz = 1.00
+Cluster 0.40-1.76 s, mass = 305.3, p = 0.0010
+Cluster 2.70-2.78 s, mass = -11.0, p = 0.3936
+Deconvolved amplitude: easy 0.152, hard 0.251 (simulated 0.150 / 0.250 on average)
+{'baseline': 6.0, 'minimum': 4.429, 'amplitude': 1.571, 'latency': 0.244, 'max_constriction_velocity': 3.571, 'time_to_min': 0.9}
+PUI = 0.72 mm/min

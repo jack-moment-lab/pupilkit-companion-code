@@ -1,0 +1,6 @@
+dz = 0.8: n = 34 gives power 1.00
+dz = 0.5: n = 34 gives power 0.81
+dz = 0.3: n = 34 gives power 0.39
+30 people, 10 trials per condition: power 0.58
+30 people, 30 trials per condition: power 0.90
+30 people, 90 trials per condition: power 0.99
